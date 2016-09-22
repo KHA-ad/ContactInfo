@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContactsInfoApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="readContact">读取联系人信息</string>
+    <string name="addContact">增加联系人</string>
+    <string name="deleteContact">删除联系人</string>
+    <string name="searchContact">查询联系人</string>
+    <string name="updateContact">修改联系人</string>
+</resources>
